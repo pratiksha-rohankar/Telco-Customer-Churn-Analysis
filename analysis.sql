@@ -80,4 +80,15 @@ ROUND(
 FROM telco_customers
 GROUP BY tenure_band;
 
+--Top 10 Risk Customers
+SELECT
+customerID,
+tenure,
+MonthlyCharges
+FROM telco_customers
+WHERE Churn='Yes'
+ORDER BY MonthlyCharges DESC
+LIMIT 10;
+
+
 
