@@ -26,8 +26,8 @@ In this project, I analyzed a telecom customer dataset containing 7,043 records 
 - Higher monthly charges were associated with increased churn risk.
 
 ## Dashboard
-An Excel dashboard was created to visualize churn patterns across different customer segments such as contract type, tenure, and monthly charges.
-The dashboard helps quickly identify high-risk customer groups and understand key drivers of churn.
+I created an Excel dashboard to visualize churn patterns across different customer segments such as contract type, tenure, and monthly charges.  
+This dashboard helps identify high-risk customer groups and understand the main factors behind churn.
 
 ## Dataset
 
