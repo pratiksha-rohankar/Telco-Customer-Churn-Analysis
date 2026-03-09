@@ -1,2 +1,2 @@
 # Telco-Customer-Churn-Analysis
-Analyzing telecom customer churn using SQL, Excel and Power BI
+Analyzing telecom customer churn using SQL and Microsoft Excel 
