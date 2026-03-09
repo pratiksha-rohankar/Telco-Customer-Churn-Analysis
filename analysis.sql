@@ -18,9 +18,6 @@ SELECT Churn, COUNT(*)
 FROM telco_customers 
 GROUP BY Churn;
 
---Total Customers
-SELECT COUNT(*) AS total_customers FROM telco_customers;
-
 --Churned Customers
 SELECT COUNT(*) AS churned_customers
 FROM telco_customers
@@ -83,8 +80,4 @@ ROUND(
 FROM telco_customers
 GROUP BY tenure_band;
 
--- Payment Method
-SELECT * FROM churn_by_payment_method;
 
--- Tenue Band
-SELECT * FROM churn_by_tenure_band;
