@@ -1,4 +1,4 @@
-# Telco-Customer-Churn-Analysis
+# telco-customer-churn-analysis
 
 ## Project Overview
 In this project, I analyzed a telecom customer dataset containing 7,043 records to understand the factors that lead to customer churn.
