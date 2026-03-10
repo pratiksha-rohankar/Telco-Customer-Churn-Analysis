@@ -5,8 +5,13 @@ Customer churn is a major challenge for telecom companies because losing custome
 In this project, I analyzed a telecom customer dataset containing 7,043 records to identify factors that influence customer churn. The goal was to understand which customer segments are more likely to leave and what patterns are associated with higher churn rates.
 
 ## Tools Used
-- SQL (Data Extraction and Churn Analysis)
-- Microsoft Excel (Data Cleaning, Pivot Tables, and Visualization)
+- SQL (Data Extraction and Churn Analysis).
+- Microsoft Excel (Data Cleaning, Pivot Tables, and Visualization).
+
+## Dataset
+This project uses the "Telco Customer Churn dataset".  
+It includes information about customers such as their demographic details, account information, and the services they use.  
+The dataset helps analyze customer behavior and identify patterns that may indicate whether a customer is likely to churn.
 
 ## Key Business Questions
 - What is the overall churn rate?
@@ -32,11 +37,6 @@ This is the Excel Dashboard i created for the Telco Customer Churn Analysis.
 <p align="center">
   <img src="dashboard/Telco Customer Churn Analysis Dashboard.png" width="600">
 </p>
-
-## Dataset
-This project uses the "Telco Customer Churn dataset".  
-It includes information about customers such as their demographic details, account information, and the services they use.  
-The dataset helps analyze customer behavior and identify patterns that may indicate whether a customer is likely to churn.
 
 ## Project Structure
 - data/ – This folder contains the raw dataset used for the analysis.
