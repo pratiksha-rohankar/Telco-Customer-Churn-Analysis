@@ -30,7 +30,20 @@ I created an Excel dashboard to visualize churn patterns across different custom
 This dashboard helps identify high-risk customer groups and understand the main factors behind churn.
 
 ## Dataset
-
 This project uses the "Telco Customer Churn dataset".  
 It includes information about customers such as their demographic details, account information, and the services they use.  
 The dataset helps analyze customer behavior and identify patterns that may indicate whether a customer is likely to churn.
+
+## Project Structure
+data/ – contains the raw dataset used in this project.  
+sql/ – SQL queries used to analyze the data.
+dashboard/ – Excel dashboard and charts created from the analysis.  
+reports/ – SQL query results and analysis report.
+presentation/ – project presentation file.
+
+## Skills Used
+- SQL for querying and analyzing data  
+- Data cleaning using Excel  
+- Pivot tables for analysis  
+- Creating charts and dashboards in Excel  
+- Finding insights from data
