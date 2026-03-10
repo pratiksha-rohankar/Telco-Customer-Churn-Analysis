@@ -37,7 +37,6 @@ This is the Excel Dashboard i created for the Telco Customer Churn Analysis.
 This project uses the "Telco Customer Churn dataset".  
 It includes information about customers such as their demographic details, account information, and the services they use.  
 The dataset helps analyze customer behavior and identify patterns that may indicate whether a customer is likely to churn.
-![Customer Churn Dashboard](dashboard/Telco Customer Churn Analysis Dashboard.png)
 
 ## Project Structure
 data/ – contains the raw dataset used in this project.  
