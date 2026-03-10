@@ -27,6 +27,7 @@ The dataset helps analyze customer behavior and identify patterns that may indic
 
 ## Key Insights
 - Month-to-month contract customers showed the highest churn rate.
+- Customers using electronic check payment method churn more often.
 - Customers with tenure below 12 months had significantly higher churn.
 - Higher monthly charges were associated with increased churn risk.
 
