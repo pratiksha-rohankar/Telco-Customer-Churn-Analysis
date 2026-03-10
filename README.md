@@ -46,8 +46,8 @@ This is the Excel Dashboard i created for the Telco Customer Churn Analysis.
 - presentation/ – Project presentation file explaining the problem, analysis process, and key insights.
 
 ## Skills Used
-- SQL for querying and analyzing data  
-- Data cleaning using Excel  
-- Pivot tables for analysis  
-- Creating charts and dashboards in Excel  
-- Finding insights from data
+- SQL for querying and analyzing data
+- Data cleaning in Excel
+- Using Pivot Tables for analysis
+- Creating charts and dashboards in Excel
+- Identifying insights from data
