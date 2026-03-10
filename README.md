@@ -39,11 +39,11 @@ It includes information about customers such as their demographic details, accou
 The dataset helps analyze customer behavior and identify patterns that may indicate whether a customer is likely to churn.
 
 ## Project Structure
-data/ – This folder contains the raw dataset used for the analysis.
-sql/ – All SQL queries used to explore the data and calculate churn metrics are stored here.
-dashboard/ – This folder includes the Excel dashboard created to visualize churn trends and customer behavior.
-reports/ – PDF file that shows SQL queries along with screenshots of their outputs.
-presentation/ – Project presentation file explaining the problem, analysis process, and key insights.
+- data/ – This folder contains the raw dataset used for the analysis.
+- sql/ – All SQL queries used to explore the data and calculate churn metrics are stored here.
+- dashboard/ – This folder includes the Excel dashboard created to visualize churn trends and customer behavior.
+- reports/ – PDF file that shows SQL queries along with screenshots of their outputs.
+- presentation/ – Project presentation file explaining the problem, analysis process, and key insights.
 
 ## Skills Used
 - SQL for querying and analyzing data  
