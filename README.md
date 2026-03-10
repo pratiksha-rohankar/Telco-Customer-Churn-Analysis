@@ -28,15 +28,15 @@ In this project, I analyzed a telecom customer dataset containing 7,043 records 
 ## Dashboard
 I created an Excel dashboard to visualize churn patterns across different customer segments such as contract type, tenure, and monthly charges.  
 This dashboard helps identify high-risk customer groups and understand the main factors behind churn.
+This is the Excel Dashboard i created for the Telco Customer Churn Analysis.
+<p align="center">
+  <img src="dashboard/Telco Customer Churn Analysis Dashboard.png" width="600">
+</p>
 
 ## Dataset
 This project uses the "Telco Customer Churn dataset".  
 It includes information about customers such as their demographic details, account information, and the services they use.  
 The dataset helps analyze customer behavior and identify patterns that may indicate whether a customer is likely to churn.
-This is the Excel Dashboard i created for the Telco Customer Churn Analysis.
-<p align="center">
-  <img src="dashboard/Telco Customer Churn Analysis Dashboard.png" width="600">
-</p>
 
 ## Project Structure
 data/ – contains the raw dataset used in this project.  
