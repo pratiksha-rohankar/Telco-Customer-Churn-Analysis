@@ -95,7 +95,7 @@ This is the Excel Dashboard i created for the Telco Customer Churn Analysis.
 - **data/** – Raw telecom customer dataset
 - **sql/** – SQL queries used for churn analysis
 - **dashboard/** – Excel dashboard screenshots
-- **reports/** – SQL query results with screenshots
+- **reports/** – SQL query results with screenshots and Excel dashboard file 
 - **presentation/** – Project presentation explaining the analysis and insights
 
 ## Skills Used
