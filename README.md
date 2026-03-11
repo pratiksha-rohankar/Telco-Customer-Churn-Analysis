@@ -63,7 +63,7 @@ This is the Excel Dashboard i created for the Telco Customer Churn Analysis.
 ### Telco Customer Churn Dashboard
 
 The Excel dashboard file used in this project is also included in the repository and can be found here:
-reports/Telco_Customer_Churn_Analysis_Dashboard.xlsx
+reports/Telco_Customer_Churn_Analysis.xlsx
 
 ## Key KPIs
 - **Total Customers:** 7,043
