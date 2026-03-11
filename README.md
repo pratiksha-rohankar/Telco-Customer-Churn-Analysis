@@ -56,11 +56,10 @@ This data helps analyze customer behavior and identify patterns associated with 
 I created an Excel dashboard to visualize churn patterns across different customer segments such as contract type, tenure, and monthly charges.  
 This dashboard helps identify high-risk customer groups and understand the main factors behind churn.
 This is the Excel Dashboard i created for the Telco Customer Churn Analysis.
+
 ![Telco Customer Churn Dashboard](dashboard/telco_churn_dashboard.png)
 
-
 ### Telco Customer Churn Dashboard
-
 The Excel dashboard file used in this project is also included in the repository and can be found here:
 [Download Excel Analysis File](reports/Telco_Customer_Churn_Data_Analysis.xlsx)
 
